@@ -1,0 +1,19 @@
+{
+    "name": "strategystar/padcrypt",
+    "type": "library",
+    "description": "String padding library that supports ANSI X.923, ISO 10126, PKCS5, PKCS7, Zero Padding, and Bit Padding",
+    "keywords": ["cryptography","pad","padding","crypt","padcrypt","strategystar"],
+    "homepage": "://github.com/jvihavainen/padcrypt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Strategy Star Inc.",
+            "email": "jvihavainen@strategystar.net",
+            "homepage": "http://www.strategystar.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
