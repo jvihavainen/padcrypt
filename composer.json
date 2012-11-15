@@ -3,7 +3,7 @@
     "type": "library",
     "description": "String padding library that supports ANSI X.923, ISO 10126, PKCS5, PKCS7, Zero Padding, and Bit Padding",
     "keywords": ["cryptography","pad","padding","crypt","padcrypt","strategystar"],
-    "homepage": "://github.com/jvihavainen/padcrypt",
+    "homepage": "http://github.com/jvihavainen/padcrypt",
     "license": "MIT",
     "authors": [
         {
